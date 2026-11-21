@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "profiles": {
     "uprise": {
-      "version": "1.0.2",
-      "packageUrl": "https://raw.githubusercontent.com/phantom4ik-ui/MWU/main/launcher-updates/1.0.2/uprise-1.0.2.zip",
-      "sha256": "c12094f0913d18e473f090e281bd579478c3fc13b82867654bde505213fdd029",
-      "size": 28220361
+      "version": "1.0.3",
+      "packageUrl": "https://raw.githubusercontent.com/phantom4ik-ui/MWU/main/launcher-updates/1.0.3/uprise-1.0.3.zip",
+      "sha256": "450d7ab37050d6bc7721bf396e6bf80bc8a95814f81eb49402c3c6343d5d558f",
+      "size": 28225394
     },
     "modded": {
-      "version": "1.0.2",
-      "packageUrl": "https://raw.githubusercontent.com/phantom4ik-ui/MWU/main/launcher-updates/1.0.2/modded-1.0.2.zip",
-      "sha256": "c12094f0913d18e473f090e281bd579478c3fc13b82867654bde505213fdd029",
-      "size": 28220361
+      "version": "1.0.3",
+      "packageUrl": "https://raw.githubusercontent.com/phantom4ik-ui/MWU/main/launcher-updates/1.0.3/modded-1.0.3.zip",
+      "sha256": "450d7ab37050d6bc7721bf396e6bf80bc8a95814f81eb49402c3c6343d5d558f",
+      "size": 28225394
     }
   }
 }
