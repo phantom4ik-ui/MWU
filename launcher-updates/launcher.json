@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/phantom4ik-ui/MWU/releases/download/launcher-1.1.0/MultiWorldsLauncher.exe",
-  "sha256": "18d556c0f72295f097e6a4a73caf63c54160e61eb9b55c4fb32098b5d4a6c1ef",
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/phantom4ik-ui/MWU/releases/download/launcher-1.1.1/MultiWorldsLauncher.exe",
+  "sha256": "462ebd8fbdf1093e5dc323d9f26a1184eda8d6d33c40ba7253ec541a5a1f1074",
   "size": 169688590,
-  "notes": "Новый дизайн, скины и автообновление"
+  "notes": "Исправлен запуск Fabric-клиента 26.3"
 }
